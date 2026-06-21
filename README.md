@@ -16,7 +16,7 @@ EX是代表Extreme的版本，這版本是Wine_DLL_Installer_GUI, ZiPatch_gui_py
 2. 開啟Konsole指令台。  
 3. 輸入指令
 ```
-chmox +x /你的檔案位置/wine_ex.sh
+chmod +x /你的檔案位置/wine_ex.sh
 ```
 4.把這個".sh"加入到非Steam遊戲，然後再執行。  
 

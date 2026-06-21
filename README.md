@@ -1,0 +1,2 @@
+# Wine_ex
+EX是代表Extreme的版本，這版本是Wine_DLL_Installer_GUI, ZiPatch_gui_python和 Gal_fix_helper的整合版本。

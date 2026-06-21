@@ -4,7 +4,7 @@
 export PATH="/usr/bin:$PATH"
 
 # 切換到腳本所在目錄
-cd "/path/to/your/script/directory"
+cd "$(dirname "$0")" || exit
 
 # 運行 Python 腳本
 python3 wine_ex.py
